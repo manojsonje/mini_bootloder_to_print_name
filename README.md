@@ -4,8 +4,8 @@
 >Name :- Manoj Devidas Sonje
 
 
-## TO SHOW  NAME & ROLL NUMBER AT BOOTSECTOR OF SECONDARY DEVICE PLEASE FOLLOW GIVEN INSTRUCTIONS
-
+## PLEASE FOLLOW GIVEN INSTRUCTIONS
+To Show Name and Roll Number on booting screen from bootsector of secondary device. follow instructions. 
 1 -  first step is to make iso image of bootcode i.e- bootloader run below command in terminal
            ```   nasm -f bin bootloader.asm -o bootloader.iso  ```
    we can also make bootloader.img by above command just by replacing bootloader.iso by bootloader.img
